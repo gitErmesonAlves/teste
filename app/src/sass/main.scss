@@ -1,0 +1,27 @@
+.modal
+{
+    width: 600px;
+    padding: 10px;
+    border-radius: 0px !important;
+}
+.modal-content
+{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+}
+.nav-link
+{
+    color: #FFF !important;
+}
+.nav-item
+{
+    border-radius: 2px;
+}
+.nav-item:hover
+{
+    background-color: #9d9dff;
+}
